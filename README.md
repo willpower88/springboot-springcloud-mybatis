@@ -31,7 +31,7 @@
     
    ```
    1. 配置文件application.yml
-   ```java
+   ```
         #eureka
         server:
           port: 8761 # 8761是eureka server的默认端口
