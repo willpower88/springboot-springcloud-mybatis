@@ -1,0 +1,13 @@
+
+server:
+  port: 8081
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/ #注册到刚才那台Eureka Server地址
+    register-with-eureka: true
+
+spring:
+  application:
+    name: ssm-service
