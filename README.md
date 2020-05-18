@@ -1,4 +1,4 @@
-# springboot-sprintcloud-mybatis
+# springboot-springcloud-mybatis
 
 
 <!-- vim-markdown-toc GFM -->
